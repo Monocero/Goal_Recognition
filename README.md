@@ -83,3 +83,4 @@ Each list, i.e., each probability distribution is also represented as bar graph 
 ## Authors
 
 - **Francesco Chiariello** - chiariello.1746480@studenti.uniroma1.it
+- **Elena Umili**
