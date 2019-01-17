@@ -79,8 +79,3 @@ Probabilities are printed in terminal while moving, as shown in the following sc
 Each list, i.e., each probability distribution is also represented as bar graph and saved in *plots* folder. Folder is cleaned up at each run.
 
 ![bar](./readme_images/action7.png)
-
-## Authors
-
-- **Francesco Chiariello** - chiariello.1746480@studenti.uniroma1.it
-- **Elena Umili**
